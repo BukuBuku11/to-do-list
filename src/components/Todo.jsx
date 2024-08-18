@@ -16,7 +16,6 @@ const todo = () => {
   }
   return (
     <div className='flex items-center flex-col justify-center'>
-      <h1>Task List</h1>
       <div className='box-1 flex items-center justify-center gap-2 m-6'>
       <input
       type='text'
